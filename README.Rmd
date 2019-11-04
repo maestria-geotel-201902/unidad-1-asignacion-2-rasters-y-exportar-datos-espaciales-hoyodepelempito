@@ -56,8 +56,8 @@ Toma nota del código de tu provincia asignada aleatoriamente.
 * Carga el paquete `sf` y el paquete `raster`.
 
 ```{r}
-library(...)
-library(...)
+library(sf)
+library(raster)
 ```
 
 ## Exporta
